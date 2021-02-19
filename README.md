@@ -1,1 +1,3 @@
 # DCIC
+
+See screenshot.png
